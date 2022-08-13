@@ -1,9 +1,8 @@
 # PINN for Transformer Thermal Modelling - Implementation
 
 ## MSc Thesis: Physics-Informed Deep Learning for Transformer Thermal Modelling
-Oliver Welin Odeback
-KTH ROYAL INSTITUTE OF TECHNOLOGY
-ELECTRICAL ENGINEERING AND COMPUTER SCIENCE
+
+### Oliver Welin Odeback, KTH ROYAL INSTITUTE OF TECHNOLOGY
 
 Abstract: *Physics-Informed neural networks (PINNs) are a novel approach to integrate physical
 models to neural networks when solving supervised learning tasks. They have shown
